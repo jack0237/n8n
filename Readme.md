@@ -174,7 +174,7 @@ docker-compose up -d
 
 ## 📚 Additional Resources
 
-- [n8n Documentation](https://docs.n8n.io/)
+- [n8n Documentation](https://docs.n8n.io/hosting/installation/updating)
 - [Docker Compose Documentation](https://docs.docker.com/compose/)
 - [PostgreSQL Documentation](https://www.postgresql.org/docs/)
 
